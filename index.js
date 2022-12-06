@@ -169,6 +169,12 @@ function fightBeast() {
 function goFight(){
 
 }
-console.log(monsterHealthText);
+function attack (){
+
+}
+function dodge (){
+
+}
+
 
 
